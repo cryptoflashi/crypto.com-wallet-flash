@@ -20,4 +20,4 @@
             
             
             
-            To install crypto.com wallet you need to follow a few simple steps.
+            #To install crypto.com wallet you need to follow a few simple steps.
